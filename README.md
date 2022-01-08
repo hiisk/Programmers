@@ -61,7 +61,7 @@
 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) | [해설](https://hiisk.tistory.com/88) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
 
 
-<details><summary>Level2</summary>
+## <details><summary>Level2</summary>
 | 문제 | 문제 풀이 | 해설 | 분류 | 
 |:----:|:----:|:----:|:----:|
 | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py) | [해설](https://hiisk.tistory.com/135) | 연습문제 |
