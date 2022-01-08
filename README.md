@@ -1,9 +1,9 @@
-# 프로그래머스 문제 풀이 코드 저장소
+# Programmers
+> 프로그래머스 문제 풀이 코드 저장소입니다.
 
 문제 해설과 입출력 예는 블로그로 이어집니다.
 
-<details>
-  <summary>Level1</summary>
+## Level1
   
 | 문제 | 문제 풀이 | 해설 | 분류 | 
 |:----:|:----:|:----:|:----:|
@@ -62,10 +62,7 @@
 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py) | [해설](https://hiisk.tistory.com/87) | 2021 KAKAO BLIND RECRUITMENT |
 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) | [해설](https://hiisk.tistory.com/88) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
 
-</details> 
-
-<details>
-  <summary>Level2</summary>
+## Level2
   
 | 문제 | 문제 풀이 | 해설 | 분류 | 
 |:----:|:----:|:----:|:----:|
@@ -89,5 +86,3 @@
 | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90.py) | [해설](https://hiisk.tistory.com/90) | 연습문제 |
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py) | [해설](https://hiisk.tistory.com/94) | 2019 KAKAO BLIND RECRUITMENT |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py) | [해설](https://hiisk.tistory.com/92) | 2020 KAKAO BLIND RECRUITMENT |
-  
-</details> 
