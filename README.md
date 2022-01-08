@@ -1,6 +1,8 @@
 # Programmers
 > 프로그래머스 문제 풀이 코드 저장소입니다.
 
+![image](https://user-images.githubusercontent.com/82814250/148634661-5f9aee47-a154-4f4b-9bf2-db09d07c06d4.png)
+
 문제 해설과 입출력 예는 블로그로 이어집니다.
 
 ## Level1
