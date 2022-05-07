@@ -90,7 +90,6 @@
 | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py) | [해설](https://hiisk.tistory.com/94) | 2019 KAKAO BLIND RECRUITMENT |
 | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%202/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.py) | [해설](https://hiisk.tistory.com/92) | 2020 KAKAO BLIND RECRUITMENT |
 
-
 ## Level4
 
 | [우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%204/%EC%9A%B0%EC%9C%A0%EC%99%80%20%EC%9A%94%EA%B1%B0%ED%8A%B8%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88/%EC%9A%B0%EC%9C%A0%EC%99%80%20%EC%9A%94%EA%B1%B0%ED%8A%B8%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.sql) | [해설](https://hiisk.tistory.com/288) | Summer/Winter Coding(2019) SQL |
