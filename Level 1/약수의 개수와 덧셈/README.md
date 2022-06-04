@@ -1,2 +1,2 @@
 # Programmers
-[아픈 동물 찾기](https://hiisk.tistory.com/73)
+[약수의 개수와 덧셈](https://hiisk.tistory.com/73)
