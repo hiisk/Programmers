@@ -64,6 +64,7 @@
 | [신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.py) | [해설](https://hiisk.tistory.com/87) | 2021 KAKAO BLIND RECRUITMENT |
 | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84/%EB%A1%9C%EB%98%90%EC%9D%98%20%EC%B5%9C%EA%B3%A0%20%EC%88%9C%EC%9C%84%EC%99%80%20%EC%B5%9C%EC%A0%80%20%EC%88%9C%EC%9C%84.py) | [해설](https://hiisk.tistory.com/88) | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |
 | [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037#fnref1) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0/%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.sql) | [해설](https://hiisk.tistory.com/284) | SQL SELECT |
+| [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036) | [문제 풀이](https://github.com/hiisk/Programmers/blob/main/Level%201/%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0/%EC%96%B4%EB%A6%B0%20%EB%8F%99%EB%AC%BC%20%EC%B0%BE%EA%B8%B0.sql) | [해설](https://hiisk.tistory.com/375) | SQL SELECT |
 
 ## Level2
   
